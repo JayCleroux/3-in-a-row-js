@@ -133,7 +133,7 @@
     if (allCorrect) {
       message = 'You did it!!';
     } else if (allCurrentOrCorrect) {
-      message = 'So far so good';
+      message = 'Everything is okay'
     } else {
       message = 'Something is wrong';
     }
